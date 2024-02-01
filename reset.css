@@ -1,0 +1,29 @@
+/* CSS Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Optional: Set default font and line height */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+/* Optional: Remove list styles */
+ul, ol {
+    list-style: none;
+}
+
+/* Optional: Remove underlines from links */
+a {
+    text-decoration: none;
+}
+
+/* Optional: Set base font size */
+html {
+    font-size: 16px;
+}
+
+
